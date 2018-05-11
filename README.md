@@ -1,7 +1,7 @@
 # Ai-search-algorithms
 Breadth-First Search(BFS)	
 # 
-Depth-First Search (DFS)
+Depth-First Search (DFS) 
 #
 uniformed cost search (UCS)
 #

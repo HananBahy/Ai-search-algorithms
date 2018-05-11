@@ -1,6 +1,7 @@
 # Ai-search-algorithms
--Breadth-First Search(BFS)
--Depth-First Search (DFS)
--uniformed cost search (UCS)
--greedy search 
--A* search
+
+_Breadth-First Search(BFS)
+_Depth-First Search (DFS)
+_uniformed cost search (UCS)
+_greedy search 
+_A* search
